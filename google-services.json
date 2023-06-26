@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50717118042",
+    "project_id": "mobapp-finals-firebase-act-2n3",
+    "storage_bucket": "mobapp-finals-firebase-act-2n3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50717118042:android:660f29e7e4238e8070d263",
+        "android_client_info": {
+          "package_name": "com.companyname.tablefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50717118042-ul7ghai39jd87ntb13lfq879el86708k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfklSFXsXNntzqCgJhjsDMHn-T3eujlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50717118042-ul7ghai39jd87ntb13lfq879el86708k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
